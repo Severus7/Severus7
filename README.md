@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=severus7" alt="severus7" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, NextJS, Tailwind**
+- 🌱 I’m currently learning **Terraform, Artificial Intelligence, OpenAI, and Azure OpenAI**
 
 - 💬 Ask me about **React, Python, WordPress, NodeJS, HTML, CSS, JavaScript**
 
